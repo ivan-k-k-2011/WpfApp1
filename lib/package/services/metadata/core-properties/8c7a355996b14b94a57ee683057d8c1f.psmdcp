@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?><coreProperties xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.openxmlformats.org/package/2006/metadata/core-properties"><dc:creator>Boaz Brickner</dc:creator><dc:description>Pcap.Net is a .NET wrapper for WinPcap written in C++/CLI and C#.
+It Features almost all WinPcap features and includes a packet interpretation framework.
+See http://pcapdot.net.</dc:description><dc:identifier>Pcap.Net.x64</dc:identifier><version>1.0.4.1</version><dc:language>en-US</dc:language><keywords /><dc:title>Pcap.Net x64</dc:title><dc:subject>NuGet Package Explorer</dc:subject></coreProperties>
